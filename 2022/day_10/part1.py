@@ -1,8 +1,4 @@
 import os
-import math
-
-NOOP_CYCLES = 1
-ADDX_CYCLES = 2
 
 
 def main(input):
